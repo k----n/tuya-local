@@ -3,6 +3,9 @@ products:
   - id: l0opxehxjnmzyree
     manufacturer: Happy Llama Tech
     model: SoCool
+  - id: knjcty4hcaby0qaa
+    manufacturer: PetSafe
+    model: FreshFeed
 entities:
   - entity: text
     translation_key: meal_plan
